@@ -1,0 +1,14 @@
+/Users/benjaminkeller/Desktop/CS-Exercises/GalaticCargoScanner/bin/Debug/net10.0/GalaticCargoScanner
+/Users/benjaminkeller/Desktop/CS-Exercises/GalaticCargoScanner/bin/Debug/net10.0/GalaticCargoScanner.deps.json
+/Users/benjaminkeller/Desktop/CS-Exercises/GalaticCargoScanner/bin/Debug/net10.0/GalaticCargoScanner.runtimeconfig.json
+/Users/benjaminkeller/Desktop/CS-Exercises/GalaticCargoScanner/bin/Debug/net10.0/GalaticCargoScanner.dll
+/Users/benjaminkeller/Desktop/CS-Exercises/GalaticCargoScanner/bin/Debug/net10.0/GalaticCargoScanner.pdb
+/Users/benjaminkeller/Desktop/CS-Exercises/GalaticCargoScanner/obj/Debug/net10.0/GalaticCargoScanner.GeneratedMSBuildEditorConfig.editorconfig
+/Users/benjaminkeller/Desktop/CS-Exercises/GalaticCargoScanner/obj/Debug/net10.0/GalaticCargoScanner.AssemblyInfoInputs.cache
+/Users/benjaminkeller/Desktop/CS-Exercises/GalaticCargoScanner/obj/Debug/net10.0/GalaticCargoScanner.AssemblyInfo.cs
+/Users/benjaminkeller/Desktop/CS-Exercises/GalaticCargoScanner/obj/Debug/net10.0/GalaticCargoScanner.csproj.CoreCompileInputs.cache
+/Users/benjaminkeller/Desktop/CS-Exercises/GalaticCargoScanner/obj/Debug/net10.0/GalaticCargoScanner.dll
+/Users/benjaminkeller/Desktop/CS-Exercises/GalaticCargoScanner/obj/Debug/net10.0/refint/GalaticCargoScanner.dll
+/Users/benjaminkeller/Desktop/CS-Exercises/GalaticCargoScanner/obj/Debug/net10.0/GalaticCargoScanner.pdb
+/Users/benjaminkeller/Desktop/CS-Exercises/GalaticCargoScanner/obj/Debug/net10.0/GalaticCargoScanner.genruntimeconfig.cache
+/Users/benjaminkeller/Desktop/CS-Exercises/GalaticCargoScanner/obj/Debug/net10.0/ref/GalaticCargoScanner.dll
