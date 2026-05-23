@@ -1,0 +1,14 @@
+/Users/benjaminkeller/Desktop/CS-Exercises/bin/Debug/net10.0/CS-Exercises
+/Users/benjaminkeller/Desktop/CS-Exercises/bin/Debug/net10.0/CS-Exercises.deps.json
+/Users/benjaminkeller/Desktop/CS-Exercises/bin/Debug/net10.0/CS-Exercises.runtimeconfig.json
+/Users/benjaminkeller/Desktop/CS-Exercises/bin/Debug/net10.0/CS-Exercises.dll
+/Users/benjaminkeller/Desktop/CS-Exercises/bin/Debug/net10.0/CS-Exercises.pdb
+/Users/benjaminkeller/Desktop/CS-Exercises/obj/Debug/net10.0/CS-Exercises.GeneratedMSBuildEditorConfig.editorconfig
+/Users/benjaminkeller/Desktop/CS-Exercises/obj/Debug/net10.0/CS-Exercises.AssemblyInfoInputs.cache
+/Users/benjaminkeller/Desktop/CS-Exercises/obj/Debug/net10.0/CS-Exercises.AssemblyInfo.cs
+/Users/benjaminkeller/Desktop/CS-Exercises/obj/Debug/net10.0/CS-Exercises.csproj.CoreCompileInputs.cache
+/Users/benjaminkeller/Desktop/CS-Exercises/obj/Debug/net10.0/CS-Exercises.dll
+/Users/benjaminkeller/Desktop/CS-Exercises/obj/Debug/net10.0/refint/CS-Exercises.dll
+/Users/benjaminkeller/Desktop/CS-Exercises/obj/Debug/net10.0/CS-Exercises.pdb
+/Users/benjaminkeller/Desktop/CS-Exercises/obj/Debug/net10.0/CS-Exercises.genruntimeconfig.cache
+/Users/benjaminkeller/Desktop/CS-Exercises/obj/Debug/net10.0/ref/CS-Exercises.dll
